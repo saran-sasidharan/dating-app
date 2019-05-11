@@ -8,3 +8,11 @@
 * Data Transfer Objects
 * Token Authentication
 * Authentication Middleware
+
+### Module 4 -  Client Login and Register
+* Creating Login and Navbar
+* Angular Template Forms
+* Using Services in Angular
+* Conditionally displaying elements on a page
+* Create a Register Component
+* Component Communication
